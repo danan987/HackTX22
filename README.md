@@ -1,4 +1,4 @@
-# SafeNet-Login
+# SafeNet
 This is the start of the code and database for the SafeNet app log in page. There is no function yet due to lack of time as this was brainstormed during the 
 HackTX 2022 Hackathon. 
 
